@@ -1,19 +1,19 @@
-# flutter_plugs
+# flutter_plugins
 
 Flutter插件集合,好用常用的插件.
 
 <!-- TOC -->
 快速定位
 
-[A](#D)
-[B](#D)
-[C](#D)
+[A](#A)
+[B](#B)
+[C](#C)
 [D](#D)
 [E](#D)
 [F](#F)
 [G](#D)
 [H](#D)
-[I](#D)
+[I](#I)
 [J](#D)
 [K](#D)
 [L](#D)
@@ -25,18 +25,34 @@ Flutter插件集合,好用常用的插件.
 [R](#D)
 [S](#S)
 [T](#D)
-[U](#D)
-[V](#D)
+[U](#U)
+[V](#V)
 [W](#D)
 [X](#D)
 [Y](#D)
 [Z](#D)
 <!-- /TOC -->
 
+## A
+|URL|介绍|
+|:- |:-|
+|[android_intent](hhttps://github.com/flutter/plugins/tree/master/packages/android_intent)|允许Flutter应用程序在平台为Android时启动任意意图.|
+
+## B
+|URL|介绍|
+|:- |:-|
+|[battery](https://github.com/flutter/plugins/tree/master/packages/battery)|用于访问运行应用程序的设备电池的各种信息。|
+
+## C
+|URL|介绍|
+|:- |:-|
+|[camera](https://github.com/flutter/plugins/tree/master/packages/battery)|用于iOS和Android访问摄像头。|
+
 ## D
 |URL|介绍|
 |:- |:-|
 |[dio](https://github.com/flutterchina/dio)|dio是一个强大的Dart Http请求库，支持Restful API、FormData、拦截器、请求取消、Cookie管理、文件上传/下载、超时、自定义适配器等...|
+|[device_info](https://github.com/flutter/plugins/tree/master/packages/device_info)|获取当前设备信息|
 
 ## F
 |URL|介绍|
@@ -47,11 +63,28 @@ Flutter插件集合,好用常用的插件.
 |[flutter_slidable](https://github.com/letsar/flutter_slidable)|可滑动列表项的Flutter实现。|
 |[flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|flutter 屏幕适配方案，让你的UI在不同尺寸的屏幕上都能显示合理的布局!|
 
+## I
+|URL|介绍|
+|:- |:-|
+|[image_picker](https://github.com/flutter/plugins/tree/master/packages/image_picker)|访问相册,支持拍照。支持iOS和Android。|
+
 ## S
 |URL|介绍|
 |:- |:-|
 |[sqflite](https://github.com/tekartik/sqflite)|Flutter的SQLite插件。支持iOS和Android。|
 
+## U
+|URL|介绍|
+|:- |:-|
+|[url_launcher](https://github.com/flutter/plugins/tree/master/packages/url_launcher)|打开url,支持iOS和Android.|
+
+## V
+|URL|介绍|
+|:- |:-|
+|[video_player](https://github.com/flutter/plugins/tree/master/packages/video_player)|用于iOS和Android的Flutter插件。|
+
+
+[Google 维护的插件](https://github.com/flutter/plugins)
 
 ### 也向大家征集[Issues](https://github.com/dlgchg/flutter_plugs/issues)
 
