@@ -11,3 +11,5 @@ Flutter插件集合,好用常用的插件.
 |[flutter_slidable](https://github.com/letsar/flutter_slidable)|可滑动列表项的Flutter实现。|
 
 
+### 也向大家征集[Issues](https://github.com/dlgchg/flutter_plugs/issues)
+
