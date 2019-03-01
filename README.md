@@ -36,7 +36,7 @@ Flutter插件集合,好用常用的插件.
 ## A
 |URL|介绍|
 |:- |:-|
-|[android_intent](hhttps://github.com/flutter/plugins/tree/master/packages/android_intent)|允许Flutter应用程序在平台为Android时启动任意意图.|
+|[android_intent](https://github.com/flutter/plugins/tree/master/packages/android_intent)|允许Flutter应用程序在平台为Android时启动任意意图.|
 
 ## B
 |URL|介绍|
