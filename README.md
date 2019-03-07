@@ -63,6 +63,7 @@ Flutter插件集合,好用常用的插件.
 |[flutter_slidable](https://github.com/letsar/flutter_slidable)|可滑动列表项的Flutter实现。|
 |[flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|flutter 屏幕适配方案，让你的UI在不同尺寸的屏幕上都能显示合理的布局!|
 |[flutter_spinkit](https://github.com/jogboms/flutter_spinkit)|加载框|
+|[flutter_markdown](https://github.com/flutter/flutter_markdown)|flutter markdown插件|
 
 ## I
 |URL|介绍|
