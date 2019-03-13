@@ -65,6 +65,7 @@ Flutter插件集合,好用常用的插件.
 |[flutter_spinkit](https://github.com/jogboms/flutter_spinkit)|加载框|
 |[flutter_markdown](https://github.com/flutter/flutter_markdown)|flutter markdown插件|
 |[flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|Flutter应用上实现下拉刷新以及上拉加载操作，它支持几乎所有的Flutter控件|
+|[shared_preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences)|Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android)|
 
 ## I
 |URL|介绍|
