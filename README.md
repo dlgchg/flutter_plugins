@@ -66,6 +66,8 @@ Flutter插件集合,好用常用的插件.
 |[flutter_markdown](https://github.com/flutter/flutter_markdown)|flutter markdown插件|
 |[flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|Flutter应用上实现下拉刷新以及上拉加载操作，它支持几乎所有的Flutter控件|
 |[shared_preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences)|Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android)|
+|[flutter_pulltorefresh(https://github.com/peng8350/flutter_pulltorefresh)]|一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios|
+|[flutter_cached_network_image](https://github.com/renefloor/flutter_cached_network_image)|图片缓存|
 
 ## I
 |URL|介绍|
