@@ -68,6 +68,7 @@ Flutter插件集合,好用常用的插件.
 |[shared_preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences)|Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android)|
 |[flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh)|一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios|
 |[flutter_cached_network_image](https://github.com/renefloor/flutter_cached_network_image)|图片缓存|
+|[flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin)|Flutter的webview|
 
 ## I
 |URL|介绍|
