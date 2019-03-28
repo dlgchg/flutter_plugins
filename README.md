@@ -47,6 +47,7 @@ Flutter插件集合,好用常用的插件.
 |URL|介绍|
 |:- |:-|
 |[camera](https://github.com/flutter/plugins/tree/master/packages/battery)|用于iOS和Android访问摄像头。|
+|[flutter_cached_network_image](https://github.com/renefloor/flutter_cached_network_image)|图片缓存加载|
 
 ## D
 |URL|介绍|
