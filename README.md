@@ -80,6 +80,7 @@ Flutter插件集合,好用常用的插件.
 |URL|介绍|
 |:- |:-|
 |[sqflite](https://github.com/tekartik/sqflite)|Flutter的SQLite插件。支持iOS和Android。|
+|[scoped_model](https://github.com/brianegan/scoped_model)|许您轻松地将数据模型从父Widget传递到它的后代。此外，它还会在模型更新时重建使用该模型的所有子项。|
 
 ## U
 |URL|介绍|
